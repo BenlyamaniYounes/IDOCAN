@@ -1,4 +1,4 @@
-# queemes
-an e-Commerce  food delivery website, design full from scratch.
+# IDOCAN
+an e-Commerce  IDOCAN delivery website.
 
-[Check it out](https://dqve.github.io/queemes/)
+
